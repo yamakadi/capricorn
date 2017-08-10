@@ -4,7 +4,7 @@
     <img src="/build/icons/256x256.png?raw=true" alt="Capricorn logo" width="100px" />
 </p>
 
-> This is a desktop application built using Electron and Vue to manage your Aliyun OSS buckets. 
+> Capricorn is a desktop application built using Electron and Vue to manage your Aliyun OSS buckets. 
 
 #### Screenshots
 
