@@ -9,15 +9,15 @@
 #### Screenshots
 
 <p align="center">
-    <img src="/build/icons/main-view.png?raw=true" alt="Main View" />
+    <img width="1000px" src="/static/screenshots/main-view.png?raw=true" alt="Main View" />
 </p>
 
 <p align="center">
-    <img src="/build/icons/fab.png?raw=true" alt="Floating Action Button" />
+    <img width="1000px" src="/static/screenshots/fab.png?raw=true" alt="Floating Action Button" />
 </p>
 
 <p align="center">
-    <img src="/build/icons/multiselect.png?raw=true" alt="Multi select" />
+    <img width="1000px" src="/static/screenshots/multiselect.png?raw=true" alt="Multi select" />
 </p>
 
 #### Build Setup
