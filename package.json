@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "ali-oss": "^4.8.0",
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "bootstrap": "^3.3.7",
     "humanize": "^0.0.9",
     "jquery": "^3.2.1",
